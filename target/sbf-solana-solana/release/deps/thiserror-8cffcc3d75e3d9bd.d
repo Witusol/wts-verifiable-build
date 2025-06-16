@@ -1,0 +1,10 @@
+/home/witusoltoken/Projects/wtstoken-dapp2025/wts-verifiable-build/wtstoken-verified/target/sbf-solana-solana/release/deps/libthiserror-8cffcc3d75e3d9bd.rmeta: /home/witusoltoken/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/lib.rs /home/witusoltoken/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/aserror.rs /home/witusoltoken/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/display.rs /home/witusoltoken/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/provide.rs
+
+/home/witusoltoken/Projects/wtstoken-dapp2025/wts-verifiable-build/wtstoken-verified/target/sbf-solana-solana/release/deps/libthiserror-8cffcc3d75e3d9bd.rlib: /home/witusoltoken/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/lib.rs /home/witusoltoken/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/aserror.rs /home/witusoltoken/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/display.rs /home/witusoltoken/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/provide.rs
+
+/home/witusoltoken/Projects/wtstoken-dapp2025/wts-verifiable-build/wtstoken-verified/target/sbf-solana-solana/release/deps/thiserror-8cffcc3d75e3d9bd.d: /home/witusoltoken/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/lib.rs /home/witusoltoken/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/aserror.rs /home/witusoltoken/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/display.rs /home/witusoltoken/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/provide.rs
+
+/home/witusoltoken/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/lib.rs:
+/home/witusoltoken/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/aserror.rs:
+/home/witusoltoken/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/display.rs:
+/home/witusoltoken/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/provide.rs:

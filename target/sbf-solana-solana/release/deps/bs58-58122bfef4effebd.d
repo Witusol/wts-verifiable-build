@@ -1,0 +1,10 @@
+/home/witusoltoken/Projects/wtstoken-dapp2025/wts-verifiable-build/wtstoken-verified/target/sbf-solana-solana/release/deps/libbs58-58122bfef4effebd.rmeta: /home/witusoltoken/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bs58-0.4.0/src/lib.rs /home/witusoltoken/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bs58-0.4.0/src/alphabet.rs /home/witusoltoken/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bs58-0.4.0/src/decode.rs /home/witusoltoken/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bs58-0.4.0/src/encode.rs
+
+/home/witusoltoken/Projects/wtstoken-dapp2025/wts-verifiable-build/wtstoken-verified/target/sbf-solana-solana/release/deps/libbs58-58122bfef4effebd.rlib: /home/witusoltoken/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bs58-0.4.0/src/lib.rs /home/witusoltoken/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bs58-0.4.0/src/alphabet.rs /home/witusoltoken/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bs58-0.4.0/src/decode.rs /home/witusoltoken/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bs58-0.4.0/src/encode.rs
+
+/home/witusoltoken/Projects/wtstoken-dapp2025/wts-verifiable-build/wtstoken-verified/target/sbf-solana-solana/release/deps/bs58-58122bfef4effebd.d: /home/witusoltoken/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bs58-0.4.0/src/lib.rs /home/witusoltoken/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bs58-0.4.0/src/alphabet.rs /home/witusoltoken/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bs58-0.4.0/src/decode.rs /home/witusoltoken/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bs58-0.4.0/src/encode.rs
+
+/home/witusoltoken/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bs58-0.4.0/src/lib.rs:
+/home/witusoltoken/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bs58-0.4.0/src/alphabet.rs:
+/home/witusoltoken/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bs58-0.4.0/src/decode.rs:
+/home/witusoltoken/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bs58-0.4.0/src/encode.rs:

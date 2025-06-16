@@ -1,0 +1,11 @@
+schema: 1
+name: wtstoken-ico
+version: 0.1.0
+origin:
+  type: github
+  url: https://github.com/Witusol/wts-verifiable-build
+  ref: main
+
+build:
+  command: cargo build-sbf
+  cwd: .

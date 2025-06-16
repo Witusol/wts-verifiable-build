@@ -1,0 +1,10 @@
+/home/witusoltoken/Projects/wtstoken-dapp2025/wts-verifiable-build/wtstoken-verified/target/release/deps/libautocfg-214781fc91c4579e.rmeta: /home/witusoltoken/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.4.0/src/lib.rs /home/witusoltoken/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.4.0/src/error.rs /home/witusoltoken/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.4.0/src/rustc.rs /home/witusoltoken/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.4.0/src/version.rs
+
+/home/witusoltoken/Projects/wtstoken-dapp2025/wts-verifiable-build/wtstoken-verified/target/release/deps/libautocfg-214781fc91c4579e.rlib: /home/witusoltoken/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.4.0/src/lib.rs /home/witusoltoken/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.4.0/src/error.rs /home/witusoltoken/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.4.0/src/rustc.rs /home/witusoltoken/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.4.0/src/version.rs
+
+/home/witusoltoken/Projects/wtstoken-dapp2025/wts-verifiable-build/wtstoken-verified/target/release/deps/autocfg-214781fc91c4579e.d: /home/witusoltoken/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.4.0/src/lib.rs /home/witusoltoken/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.4.0/src/error.rs /home/witusoltoken/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.4.0/src/rustc.rs /home/witusoltoken/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.4.0/src/version.rs
+
+/home/witusoltoken/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.4.0/src/lib.rs:
+/home/witusoltoken/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.4.0/src/error.rs:
+/home/witusoltoken/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.4.0/src/rustc.rs:
+/home/witusoltoken/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.4.0/src/version.rs:

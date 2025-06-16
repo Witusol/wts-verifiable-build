@@ -1,0 +1,9 @@
+/home/witusoltoken/Projects/wtstoken-dapp2025/wts-verifiable-build/wtstoken-verified/target/release/deps/libspl_discriminator_syn-13630fe4a4402517.rmeta: /home/witusoltoken/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-discriminator-syn-0.1.2/src/lib.rs /home/witusoltoken/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-discriminator-syn-0.1.2/src/error.rs /home/witusoltoken/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-discriminator-syn-0.1.2/src/parser.rs
+
+/home/witusoltoken/Projects/wtstoken-dapp2025/wts-verifiable-build/wtstoken-verified/target/release/deps/libspl_discriminator_syn-13630fe4a4402517.rlib: /home/witusoltoken/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-discriminator-syn-0.1.2/src/lib.rs /home/witusoltoken/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-discriminator-syn-0.1.2/src/error.rs /home/witusoltoken/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-discriminator-syn-0.1.2/src/parser.rs
+
+/home/witusoltoken/Projects/wtstoken-dapp2025/wts-verifiable-build/wtstoken-verified/target/release/deps/spl_discriminator_syn-13630fe4a4402517.d: /home/witusoltoken/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-discriminator-syn-0.1.2/src/lib.rs /home/witusoltoken/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-discriminator-syn-0.1.2/src/error.rs /home/witusoltoken/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-discriminator-syn-0.1.2/src/parser.rs
+
+/home/witusoltoken/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-discriminator-syn-0.1.2/src/lib.rs:
+/home/witusoltoken/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-discriminator-syn-0.1.2/src/error.rs:
+/home/witusoltoken/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-discriminator-syn-0.1.2/src/parser.rs:

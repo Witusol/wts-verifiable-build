@@ -1,0 +1,1 @@
+/home/witusoltoken/Projects/wtstoken-dapp2025/wts-verifiable-build/wtstoken-verified/target/sbf-solana-solana/release/libico.rlib: /home/witusoltoken/Projects/wtstoken-dapp2025/wts-verifiable-build/wtstoken-verified/programs/ico/src/lib.rs
